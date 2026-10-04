@@ -1,3 +1,7 @@
+# Do Not Use
+
+Project merged to https://github.com/CurbSoftware/desktop-xlets.
+
 # CurbSoftware Desktop Widgets
 
 One AppImage that installs CurbSoftware widgets for the desktop you
